@@ -1,0 +1,9 @@
+{
+    "name": "BatteryTweak",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/max-enterme/repo-mods",
+    "description": "Adjust battery drain speed and charging station charge rate. Make batteries last longer or charge faster.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
