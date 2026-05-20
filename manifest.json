@@ -1,6 +1,6 @@
 {
   "name": "BatteryTweak",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/maxe-repo-mods/BatteryTweak",
   "description": "Adjust battery drain speed and charging station charge rate. Make batteries last longer or charge faster.",
   "dependencies": [
